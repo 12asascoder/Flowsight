@@ -1,0 +1,13 @@
+{
+    "name": "water-simulator",
+    "version": "1.0.0",
+    "description": "IoT Sensor Simulator",
+    "main": "simulate.js",
+    "scripts": {
+        "start": "node simulate.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "mqtt": "^5.3.0"
+    }
+}
